@@ -33,6 +33,17 @@ AEC:
   summary: >
     A low-level programming language with syntax inspired by BASIC and Ada. Right now, it can target x86 and WebAssembly.
 
+Alain:
+  website: https://sr.ht/~carlomonte/Alain/
+  author: Carlo Monte
+  summary: >
+    Relational batch processing of Unicode lists: novel LP syntax (no functors), intrinsic parallelism and first-class predicates (no side effects).
+  tags:
+    - interpreter
+    - logic
+    - parallel
+    - pure
+
 Alox:
   website: https://alox.dev/
   github: alox-lang/alox
