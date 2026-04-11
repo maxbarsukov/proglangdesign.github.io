@@ -316,8 +316,11 @@ Futhark:
   author: Athas
   summary: A high-performance parallel functional array language targeting GPUs.
   tags:
+    - compiler
+    - interpreter
     - functional
     - parallel
+    - pure
 
 Gera:
   website: https://geralang.netlify.app/

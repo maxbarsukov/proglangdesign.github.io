@@ -4,7 +4,8 @@ compiler:
     The tooling of the language comes with a user-facing
     ahead-of-time compiler that the user commonly interacts with.
 concurrent:
-  description: null
+  description: >
+    Supports concurrent execution in some form.
 dynamic types:
   description: null
 educational:
@@ -14,7 +15,9 @@ esoteric:
 first-class types:
   description: null
 functional:
-  description: null
+  description: >
+    Supports and encourages functional programming, with such features as
+    higher-order functions, polymorphism, recursion, discouraging effects, etc.
 garbage collection:
   description: null
 imperative:
@@ -32,9 +35,11 @@ non-programming language:
 object-oriented:
   description: null
 parallel:
-  description: null
+  description: >
+    Intended specifically or mainly for parallel programming.
 pure:
-  description: null
+  description: >
+    Does not allow side effects.
 scripting:
   description: >
     The makers of the language intend it to be used for scripting
